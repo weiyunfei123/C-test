@@ -1,0 +1,12 @@
+﻿  boss.cpp
+  employee.cpp
+c:\users\weiyunfelix\source\repos\基于多态的职工管理系统\基于多态的职工管理系统\employee.h(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  manager.cpp
+  workManager.cpp
+c:\users\weiyunfelix\source\repos\基于多态的职工管理系统\基于多态的职工管理系统\employee.h(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  职工管理系统.cpp
+c:\users\weiyunfelix\source\repos\基于多态的职工管理系统\基于多态的职工管理系统\employee.h(3): warning C4067: 预处理器指令后有意外标记 - 应输入换行符
+  正在生成代码
+  All 196 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  基于多态的职工管理系统.vcxproj -> C:\Users\weiyunfelix\source\repos\基于多态的职工管理系统\Release\基于多态的职工管理系统.exe
